@@ -12,8 +12,7 @@ hello()
 
 
 def area(width, height):
-    result = width * height
-    return result
+    return width * height
 
 
 # เรียกใช้งานฟังก์ชัน area()
